@@ -4,7 +4,7 @@ email: chris@cwardee.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   My portfolio and Dev Blog.
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: https://githubusername.github.io
+url: https://CWardeePortfolio.github.io
 twitter_username: twitter
 github_username:  github
 
