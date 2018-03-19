@@ -1,15 +1,15 @@
 ---
 layout: project
-title: space invaders
-description: space invaders
+title: 2D Game Engine
+description: a simple xna-style game framework for 2D
 img: ../img/xna-logo1.png 
 published: true
 ---
 
-<center><b>space invaders.exe</b></center><br/>
+<center><b>ASGE</b> is a minimal game engine in C++ based on XNA ideas.</center><br/>
 
-#### SPACE INVADERS.EXE
-space invaders.exe is a simple recreation of space invaders created using asge
+#### Awesome Sauce Game Engine
+Developed in response to students needs, a small framework built upon modern C++ was created modelled in the XNA mould. It is designed to afford accessible game development, but restrict the level of hand-holding required. At current, it supports only 2D and does not provide advanced technologies such as networking or controller input. 
 
 <!--<div class="img_row">
 	<img class="col two" src="{{ site.baseurl }}/img/asge_01.png" alt="" title="example image"/>
@@ -19,6 +19,7 @@ space invaders.exe is a simple recreation of space invaders created using asge
 <div class="owl-carousel owl-theme">
 <a href="{{ site.baseurl }}/img/asge_02.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_02.png" /></a>
 <a href="{{ site.baseurl }}/img/asge_01.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_01.png" /></a>
+<a href="{{ site.baseurl }}/img/asge_02.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_02.png" /></a>
 </div>
 
 <div class="col three caption">
@@ -31,4 +32,4 @@ space invaders.exe is a simple recreation of space invaders created using asge
 ----
 [ASGE][asge] download
 
-[asge]: https://github.com/UWEGames-ESD/space-invaders-CWardee
+[asge]: https://github.com

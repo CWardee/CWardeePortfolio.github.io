@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  space invaders
+title:  conditional loops
 date: 2017-07-19 12:00:00
-description: basic space invaders game
-category: ASGE
+description: what are the basic conditional loops?
+category: newbie
 published: true
 tags:
  - c++

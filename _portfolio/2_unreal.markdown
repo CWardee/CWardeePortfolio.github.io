@@ -1,34 +1,18 @@
 ---
-layout: project
-title: space invaders
-description: space invaders
-img: ../img/xna-logo1.png 
+layout: post
+title: Plugin
+description: unreal engine plugin
+img: ../img/unreal_logo.jpg
 published: true
 ---
 
-<center><b>pong</b></center><br/>
+An unreal plugin that I mades...
 
-#### SPACE INVADERS.EXE
-A simple recreation of pong created using asge
-
-<!--<div class="img_row">
-	<img class="col two" src="{{ site.baseurl }}/img/asge_01.png" alt="" title="example image"/>
-	<img class="col one" src="{{ site.baseurl }}/img/asge_02.png" alt="" title="example image"/>
-</div> -->
-
-<div class="owl-carousel owl-theme">
-<a href="{{ site.baseurl }}/img/asge_03.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_03.png" /></a>
-<a href="{{ site.baseurl }}/img/asge_04.png" target="_blank"><img src="{{ site.baseurl }}/img/asge_04.png" /></a>
+<div class="img_row">
+	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/2.jpg" alt="" title="example image"/>
+	<img class="col one" src="{{ site.baseurl }}/img/3.jpg" alt="" title="example image"/>
 </div>
-
 <div class="col three caption">
-	Example game start screens running on ASGE. In the top left you can see the FPS counter. 
+	Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
-
-<br/>
-
-#### Links
-----
-[ASGE][asge] download
-
-[asge]: https://github.com/UWEGames-ESD/pong-CWardee
